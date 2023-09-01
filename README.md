@@ -1,0 +1,3 @@
+# OpenAI-Go
+
+This a test project to utilize OpenAI's ChatGPT-3.5 for personal use. Very simple implementation using the `github.com/sashabaranov/go-openai` library to continuously ask questions. Simply pull this project, set the `OPENAI_SECRET_KEY` environment variable and you are good to test with `go run main.go`. Please feel free to ask any questions or contribute. I do not own the right to any library being used in this project.

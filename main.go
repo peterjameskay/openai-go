@@ -13,6 +13,7 @@ import (
 )
 
 func main() {
+	// Adding info
 	clientKey := os.Getenv("OPENAI_SECRET_KEY")
 	client := openai.NewClient(clientKey)
 	ctx := context.Background()
